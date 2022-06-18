@@ -45,3 +45,9 @@
 	display: inline-block;
 	border-radius: 50%;
 }
+.button_back {
+	display: inline-block;
+}
+.div_button {
+	text-align: center;
+}
