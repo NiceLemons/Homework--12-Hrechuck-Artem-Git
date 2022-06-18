@@ -1,0 +1,22 @@
+.container {
+	max-width: 1140px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+.col3 {
+	float: left;
+	width: 25%;
+	height: 300px;
+}
+.red {
+	background-color: red;
+}
+.blue {
+	background-color: blue;
+}
+.yellow {
+	background-color: yellow;
+}
+.green {
+	background-color: green;
+}
